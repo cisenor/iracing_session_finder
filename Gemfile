@@ -25,3 +25,5 @@ end
 group :production do
   # gem 'puma'
 end
+
+gem "graphql", "~> 1.9"
